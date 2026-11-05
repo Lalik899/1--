@@ -1,0 +1,11 @@
+\\192.168.3.250\Veda\3 курс\ИСП 33\МДК 03.02\Васильев Елькин\Автосалон\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\БД автосалон.accdb
+\\192.168.3.250\Veda\3 курс\ИСП 33\МДК 03.02\Васильев Елькин\Автосалон\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33\МДК 03.02\Васильев Елькин\Автосалон\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33\МДК 03.02\Васильев Елькин\Автосалон\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33\МДК 03.02\Васильев Елькин\Автосалон\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33\МДК 03.02\Васильев Елькин\Автосалон\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33\МДК 03.02\Васильев Елькин\Автосалон\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33\МДК 03.02\Васильев Елькин\Автосалон\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33\МДК 03.02\Васильев Елькин\Автосалон\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33\МДК 03.02\Васильев Елькин\Автосалон\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33\МДК 03.02\Васильев Елькин\Автосалон\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
